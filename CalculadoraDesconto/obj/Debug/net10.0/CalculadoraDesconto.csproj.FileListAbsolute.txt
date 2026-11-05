@@ -1,0 +1,11 @@
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\bin\Debug\net10.0\CalculadoraDesconto.deps.json
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\bin\Debug\net10.0\CalculadoraDesconto.dll
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\bin\Debug\net10.0\CalculadoraDesconto.pdb
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.AssemblyInfoInputs.cache
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.AssemblyInfo.cs
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.csproj.CoreCompileInputs.cache
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.dll
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\refint\CalculadoraDesconto.dll
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\CalculadoraDesconto.pdb
+C:\Users\crude\OneDrive\Área de Trabalho\Tp04Solution\CalculadoraDesconto\obj\Debug\net10.0\ref\CalculadoraDesconto.dll

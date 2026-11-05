@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculadoraDesconto/CalculadoraDesconto.csproj" />
+  <Project Path="Tp04WebAPI/Tp04WebAPI.csproj" />
+</Solution>
